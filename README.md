@@ -7,7 +7,7 @@ Program implements 4 functionalities:
  - Finds a cart with the highest value, determines its value and full name of its owner.
  - Finds the two users living furthest away from each other.
 
-Implementation of retreving data is placed in **fetchData.ts** file while other functionality are in **functions.ts**. Every function contains set of tests to verify edge cases and common type data. For run-time type-safety I used Zod library which automatically verify response from **fakestoreapi**.
+Implementation of retreving data is placed in **fetchData.ts** file while other functionality are in **functions.ts**. Every function contains set of tests to verify edge cases and common data. For run-time type-safety I used Zod library which automatically verify response from **fakestoreapi**.
 
 
 
